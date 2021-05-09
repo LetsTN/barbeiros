@@ -6,7 +6,7 @@ Em ciência da computação, o problema do barbeiro dorminhoco é um problema cl
 
 A questão é manter os barbeiros ocupados enquanto há clientes, e descansando quando não há nenhum (fazendo isso de uma maneira ordenada).
 
-## O problema (como o professor passou literalmente)
+## O problema (como o professor passou, literalmente)
 
 Na barbearia há N barbeiros, N cadeiras de barbeiro e X cadeiras para eventuais clientes
 esperarem a vez. Quando não há clientes, os barbeiros sentam-se nas suas cadeiras de barbeiro e cai no sono. Quando chega um cliente, ele precisa acordar algum barbeiro. Se outros clientes chegarem enquanto o barbeiro estiver cortando o cabelo de um cliente, eles se sentarão (se houver cadeiras vazias) ou sairão da barbearia (se todas as cadeiras estiverem ocupadas). O problema é programar o barbeiro e os clientes sem cair em condições de disputa. Esse problema é semelhante a situações com várias filas, como uma mesa de atendimento de telemarketing com diversos atendentes e com um sistema computadorizado de chamadas em espera, atendendo a um número limitado de chamadas que chegam.
